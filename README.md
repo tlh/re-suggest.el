@@ -2,4 +2,4 @@
 
 recs-mode has moved [here][].
 
-[http://github.com/tlh/recs-mode.el]
+[here]: http://github.com/tlh/recs-mode.el
